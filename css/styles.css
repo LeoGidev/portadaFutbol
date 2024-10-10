@@ -57,3 +57,16 @@ html {
 a{
     text-decoration: none;
 }
+#portada{
+    overflow-x: hidden;
+    color: rgba(14, 255, 255, 0.152);
+    height: 100vh; 
+      height: 100vh;
+      background-image: url('../img/portada.webp');
+       background-attachment: fixed; 
+       background-size: contain; 
+       background-position: center top;
+       background-color: #292929;
+       
+  }
+
