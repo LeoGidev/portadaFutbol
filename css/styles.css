@@ -69,4 +69,10 @@ a{
        background-color: #292929;
        
   }
-
+  /* Media query para pantallas pequeÃ±as */
+  @media only screen and (max-width: 768px) {
+    #portada {
+        height: 130vh; /* Ajusta la altura segÃºn el tamaÃ±o de la pantalla */
+        background-size: cover; /* Utiliza cover en lugar de contain para llenar el Ã¡rea */
+    }
+  }
