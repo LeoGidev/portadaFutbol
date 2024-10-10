@@ -111,3 +111,23 @@ a{
     transform: rotate(360deg);
    
   }
+
+  .title{
+    margin-top: 40px;
+    height: 30vh;
+    font-family: 'Blinker', sans-serif;
+    font-size: larger;
+    font-weight: bold;
+    letter-spacing: 6px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+  .animate__animated{
+    width: 50%;
+   
+    color: white;
+    text-align: center;
+    
+
+  }
